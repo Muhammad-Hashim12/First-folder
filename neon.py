@@ -1,4 +1,4 @@
-# for testing pupose
+# for testing pull push 
 
 a=int(input('enter the number: '))
 b=a**2
